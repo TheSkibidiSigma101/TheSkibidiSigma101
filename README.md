@@ -2,7 +2,12 @@
 <html>
   <head></head>
   <title>Checkmat HQ</title>
-  <h1 style="color:gold;">A gold heading</h1>
+  <style>
+    <background="color:black;">A black background</background>
+    <h1="color:gold;">A gold heading</h1>
+    <p="color:white;">A white paragraph</p>
+    <p
+  </style>
   <body>
     <h1>Checkmat HQ: Where To Go To Become a BJJ World Champion
     </h1>
