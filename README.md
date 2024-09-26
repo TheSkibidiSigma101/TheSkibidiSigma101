@@ -3,7 +3,7 @@
   <head></head>
   <title>Checkmat HQ</title>
   <body>
-    <h1>Checkmat HQ:A fun place :)
+    <h1>Checkmat HQ: Where To Go To Become a BJJ World Champion
     </h1>
     <p></p>
   </body>
