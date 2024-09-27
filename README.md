@@ -1,6 +1,6 @@
 <!DOCTYPE.html>
 <html>
-  <head></head>
+  <head>
   <title>Checkmat HQ</title>
   <style>
     <background="color:black;">A black background</background>
@@ -8,6 +8,7 @@
     <p="color:white;">A white paragraph</p>
     <p
   </style>
+  </head>
   <body>
     <h1>Checkmat HQ: Where To Go To Become a BJJ World Champion
     </h1>
